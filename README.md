@@ -1,0 +1,2 @@
+# CommonWays
+Common ways bespoken.
